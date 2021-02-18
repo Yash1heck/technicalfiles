@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E-commerce project using Java'
-copyright = '2020, Harideep'
-author = 'Harideep'
+project = 'creating a food eatlist using reactjs'
+copyright = '2020, Yaswanth.M'
+author = 'M.Yaswanth'
 
 # The full version, including alpha/beta/rc tags
 release = ''
